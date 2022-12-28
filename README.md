@@ -20,7 +20,7 @@
   - test-mqtt，供调试查询服务器mqtt状态使用
 
 ## 测试mqtt服务器场景
-- 参见测试文章：
+- 参见测试文章：https://github.com/jasonhu/laf-mqtt-aedes/issues/1
 
 ## 改进和贡献
 - 请提出你的issue，我会不定期查看
