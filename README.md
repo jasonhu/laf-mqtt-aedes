@@ -13,7 +13,7 @@
 - 采用标准的mqtt协议，基于websocket技术，进行双向通讯管理
 
 ## lafyun配置
-- 注册并登录，建立你自己的应用，会获取一个 https://xxx.lafyun.com的应用域名
+- 注册并登录，建立你自己的应用，会获取一个 `https://xxx.lafyun.com` 的应用域名
 - 在云函数中，建立好3个云函数
   - init-mqtt-broker，配置为`App:ready`事件触发，app启动时候运行
   - on-mqtt-connection，配置为`WebSocket:connection`事件触发
