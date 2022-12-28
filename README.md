@@ -2,9 +2,10 @@
 在laf云平台上，使用aedes库，提供基于websocket的mqtt-broker服务
 
 ## 参考资料
-- www.lafyun.com
-- aedes
-- 发布-订阅模式
+- https://www.lafyun.com
+- [aedes](https://github.com/moscajs/aedes)
+- [物联网应用中，mqtt对比http](https://zhuanlan.zhihu.com/p/473594063)
+- [发布-订阅模式](https://zhuanlan.zhihu.com/p/182546537)
 
 ## 项目优势
 - 利用laf云的在线云函数优势，可以快速建立自己的云服务
